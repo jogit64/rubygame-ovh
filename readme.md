@@ -35,6 +35,21 @@ Jouez au jeu en ouvrant `index.html` dans votre navigateur. Utilisez le bouton "
 - LeBonUnivers - Concepteur et Développeur Principal
 - Contact : contact@johannr.fr
 
+## Contribuer au Projet
+
+Si vous souhaitez contribuer à Ruby's Game, merci de forker le dépôt, de créer une nouvelle branche pour vos modifications, et de soumettre une pull request pour examen.
+
+### Étapes pour contribuer :
+
+1. **Fork** le dépôt sur GitHub.
+2. **Clone** le fork sur votre machine locale.
+3. **Créez une branche** pour vos modifications : `git checkout -b nom_de_votre_branche`.
+4. **Apportez vos modifications** et committez-les : `git commit -am 'Ajout de mes modifications'`.
+5. **Poussez** la branche vers votre fork : `git push origin nom_de_votre_branche`.
+6. Ouvrez une **Pull Request** sur GitHub pour demander l'intégration de vos modifications dans la branche `main` du dépôt original.
+
+Toutes les pull requests sont les bienvenues, et seront examinées dès que possible.
+
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
