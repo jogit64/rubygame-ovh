@@ -1,0 +1,30 @@
+.dogs__line {
+  animation: slideIn 0.5s linear;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+#p1ma {
+  animation-delay: 0s;
+}
+
+#p1mi {
+  animation-delay: 3s;
+}
+
+#p1cb {
+  animation-delay: 6s;
+}
+
+#p1ru {
+  animation-delay: 9s;
+}
